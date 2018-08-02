@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/solar-introduction" resolutions="1x" timestamp="1531157602864">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/solar-introduction" resolutions="1x" timestamp="1533213955043">
   <folder name="css">
     <file name="site_global.css" crc="3899992807"/>
-    <file name="index.css" crc="447584395" ref="index"/>
-    <file name="nomq_index.css" crc="466944009" ref="index"/>
+    <file name="index.css" crc="3915812366" ref="index"/>
+    <file name="nomq_index.css" crc="4045138464" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -28,6 +28,16 @@
     </file>
     <file name="bell_poster_.png" crc="524533474" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="solsmartgold_logo.png" crc="3942706137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="390716884" seo="true" mt="1531157533179" redirect="true"/>
+  <file name="index.html" crc="33626701" seo="true" mt="1533212354634" redirect="true"/>
 </manifest>
