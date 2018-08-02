@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/solar-introduction" resolutions="1x" timestamp="1533231400441">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/solar-introduction" resolutions="1x" timestamp="1533233480156">
   <folder name="css">
     <file name="site_global.css" crc="8817582"/>
-    <file name="index.css" crc="506540401" ref="index"/>
-    <file name="nomq_index.css" crc="340473860" ref="index"/>
+    <file name="index.css" crc="145048227" ref="index"/>
+    <file name="nomq_index.css" crc="46047047" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -39,5 +39,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3924680611" seo="true" mt="1533231385607" redirect="true"/>
+  <file name="index.html" crc="114648121" seo="true" mt="1533231998863" redirect="true"/>
 </manifest>
