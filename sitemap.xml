@@ -11,11 +11,5 @@
     <image:image>
       <image:loc>https://cityofphiladelphia.github.io/solar-introduction/images/solsmartgold_logo.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>https://cityofphiladelphia.github.io/solar-introduction/images/energyoffice_standardlogov3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://cityofphiladelphia.github.io/solar-introduction/images/oit_citygeo_standardlogo_v2.png</image:loc>
-    </image:image>
   </url>
 </urlset>
