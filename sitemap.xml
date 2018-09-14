@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cityofphiladelphia.github.io/solar-introduction/index.html</loc>
-    <lastmod>2018-08-15</lastmod>
+    <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,6 +10,15 @@
     </image:image>
     <image:image>
       <image:loc>https://cityofphiladelphia.github.io/solar-introduction/images/solsmartgold_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://cityofphiladelphia.github.io/solar-introduction/images/energyoffice_standardlogov3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://cityofphiladelphia.github.io/solar-introduction/images/philadelphiaenergyauthority_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://cityofphiladelphia.github.io/solar-introduction/images/oit_citygeo_standardlogo_v2.png</image:loc>
     </image:image>
   </url>
 </urlset>
