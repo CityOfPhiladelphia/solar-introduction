@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/solar-introduction" resolutions="1x" timestamp="1536927115002">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/solar-introduction" resolutions="1x" timestamp="1543424042477">
   <folder name="css">
     <file name="site_global.css" crc="3899992807"/>
-    <file name="index.css" crc="4202005482" ref="index"/>
+    <file name="index.css" crc="3856481547" ref="index"/>
     <file name="nomq_index.css" crc="472731285" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -75,5 +75,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3842590468" seo="true" mt="1536926857340" redirect="true"/>
+  <file name="index.html" crc="448249748" seo="true" mt="1543424011631" redirect="true"/>
 </manifest>
